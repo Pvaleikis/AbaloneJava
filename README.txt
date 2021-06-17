@@ -1,0 +1,1 @@
+This is only the rudimentary logic for the game of abalone. Only class that you should run is Abalone.java
